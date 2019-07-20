@@ -10,13 +10,12 @@ targetHeight = 80;
 
 footDistance = 105;
 footWidth = 10;
-
-
+cupHeight = 3;
 
 // Design Parameters
 
 bottomPlateThickness = 3;
-cupHeight = 3;
+
 
 cylinderExtension = 3;
 columnRadiusTop = footWidth / 2 + cylinderExtension;
