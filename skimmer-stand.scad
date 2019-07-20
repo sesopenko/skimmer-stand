@@ -1,13 +1,17 @@
 // Stand for bubble magus curve 5.
+// Created by Sean Esopenko.
+// Licensed GNU GPL V3.  License should be included in package as LICENSE.txt
+
+// Targets
+
+targetHeight = 80;
 
 // Measurements
 
 footDistance = 105;
 footWidth = 10;
 
-// Targets
 
-targetHeight = 80;
 
 // Design Parameters
 
